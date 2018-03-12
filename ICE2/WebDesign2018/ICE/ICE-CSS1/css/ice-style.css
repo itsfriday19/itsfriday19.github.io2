@@ -1,0 +1,73 @@
+body {
+  /* Old browsers */
+  background: #545549;
+  padding: 0;
+}
+
+header h1 {
+	text-align: right;
+	background: #fffd38;
+}
+
+/*Navigation bar*/
+nav ul {
+	background: #0e7e12;
+}
+
+nav ul li {
+	display: inline-block;
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 15px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+/*Shakespeare's Sonnet #18*/
+div ul {
+	text-align: center;
+	list-style-type: none;
+
+}
+
+/*Sonnet Index*/
+aside {
+	/*text-align: right;*/
+	padding-right: 100px;
+    height: 620px;
+	display: inline-block;
+	float: right;
+    background-image: url('http://www.literarygenius.info/images/william-shakespeare.jpg');
+    background-color: white;
+    background-size: 260px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+	/*background: http://www.literarygenius.info/images/william-shakespeare.jpg;*/
+}
+
+aside ul {
+	text-align: left;
+	padding-right: 40px;
+	list-style-type: disc;
+}
+
+p.copyright {
+	background: #0e7e12;
+	padding: 14px;
+/*    position: relative;*/
+    bottom: 0;
+}
+
+p a {
+	color: blue;
+}
+
+* {
+	margin: 0;
+}

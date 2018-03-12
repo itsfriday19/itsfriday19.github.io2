@@ -1,0 +1,18 @@
+img {
+    border: solid 3px black;
+}
+
+.hover:hover {
+    border-radius: 25px;
+
+}
+
+.active:active {
+    opacity: .6;
+
+}
+
+.focus:focus {
+    filter: grayscale(100%);
+
+}
