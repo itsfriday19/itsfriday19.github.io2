@@ -1,0 +1,40 @@
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+form {
+	background: #add8e6;
+	width: 45%;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+label {
+	padding: 3px 0px;
+}
+
+#acctInfo {
+	background: #c1e2cc;
+	padding: 0px 10px;
+	border-radius: 10px;
+}
+
+#eduWork {
+	background: #d6ebb2;
+	padding: 0px 10px;
+	border-radius: 10px;
+}
+
+#position {
+	background: #eaf598;
+	padding: 0px 10px;
+	border-radius: 10px;
+}
+
+h4 u {
+	font-size: 2.5rem;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 0;
+}
